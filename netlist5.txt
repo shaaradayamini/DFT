@@ -1,0 +1,2 @@
+and2_1 n1 in1 in2 
+nand2_2 out1 n1 in3 
